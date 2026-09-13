@@ -95,10 +95,29 @@ Screw              |           | 4-40 x 1/4" Screw                 | 2
 #### Version 1.0
 
  * Initial Release
+ 
+ 
+# Benchmarks
+ * CPU: D70108HCZ-16
+ * FPU: 8087-1
+
+### Checkit 3.0 Benchmark:
+#### @4.77 MHz
+ * 414 Dhrystones (1.20x)
+ * 126.9K Whetstones (19.23x)
+
+#### @7.16 MHz
+ * 618 Dhrystones (1.80x)
+ * 191.3K Whetstones (28.97x)
+
+#### @9.55 MHz
+ * 837 Dhrystones (2.43x)
+ * 267.7K Whetstones (40.56x)
+
 
 
 # Final Note
  * Install either U14 or U16, not both together
- * The card is still in the testing phase.
+ * The card is tested and works.
  * This card won't fit Sergey's case ([this one](https://github.com/skiselev/micro_8088_case)). The case will need to be enlarged.
  * Card size 185.3 mm x 102.9 mm
