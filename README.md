@@ -2,7 +2,7 @@
 
 This is an IBM XT-compatible CPU and RTC card, based on a design by [Sergey Kiselev](https://github.com/skiselev) and [Aitor Gómez García](https://github.com/spark2k06).
 
-![Assembled Board 1.0](Images/Card.jpeg)
+![Assembled Board 1.0](images/Card.jpeg)
 
 
 # The Idea
